@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marko177
-- 👀 I’m interested in learning how to program as well as playing videogames.
-- 🌱 I’m currently learning how to program with python on Udemy and im in my second semester of studies at Facpya in Monterrey, Mexico.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning how to program with Python and im in my fourth semester of studies at Facpya in Monterrey, Mexico.
 - 💞️ I’m looking to collaborate on anything that will teach me.
 - 📫 How to reach me, through here for now.
 
