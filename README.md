@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marko177
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning how to program with Python and im in my fourth semester of studies at Facpya in Monterrey, Mexico.
-- 💞️ I’m looking to collaborate on anything that will teach me.
+- 🌱 I’m currently learning how to program with Python and im in my fourth semester at Facpya in Monterrey, Mexico.
+- 💞️ I’m looking to collaborate on anything that will help me learn.
 - 📫 How to reach me, through here for now.
 
 <!---
